@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diego Martinez | Portfolio Selection</title>
+    <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0f172a;
+            color: #f1f5f9;
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        .container {
+            text-align: center;
+            max-width: 900px;
+            width: 100%;
+            padding: 20px;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #38bdf8;
+        }
+        
+        p {
+            font-size: 1.2rem;
+            color: #94a3b8;
+            margin-bottom: 50px;
+        }
+        
+        .card-container {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+        
+        .card {
+            background-color: #1e293b;
+            border-radius: 15px;
+            width: 300px;
+            height: 400px;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.3s, box-shadow 0.3s;
+            overflow: hidden;
+            border: 1px solid #334155;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+            border-color: #38bdf8;
+        }
+        
+        .card-preview {
+            height: 60%;
+            width: 100%;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+        
+        .v1-preview {
+            background: linear-gradient(to bottom right, #2563eb, #1e40af);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .v1-preview::after {
+            content: 'PRO';
+            font-size: 3rem;
+            font-weight: bold;
+            color: rgba(255,255,255,0.2);
+        }
+        
+        .v2-preview {
+            background-color: #fcfcfc;
+            border-bottom: 1px solid #e0e0e0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .minimal-art {
+            width: 80px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .minimal-art .circle {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid #d9534f;
+        }
+
+        .minimal-art .line {
+            width: 100%;
+            height: 2px;
+            background-color: #333;
+        }
+
+        .minimal-art .line.short {
+            width: 60%;
+        }
+
+        .v3-preview {
+            background-color: #0a0a0a;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .bento-mini {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 5px;
+            width: 80px;
+        }
+
+        .mini-box {
+            background-color: #333;
+            border-radius: 4px;
+            height: 30px;
+        }
+
+        .mini-box.hero {
+            grid-column: span 2;
+            height: 40px;
+            background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+        }
+
+        .mini-box.wide {
+            grid-column: span 2;
+            height: 20px;
+        }
+        
+        .card-content {
+            padding: 20px;
+            text-align: left;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        
+        .card h2 {
+            margin: 0 0 10px 0;
+            font-size: 1.5rem;
+            color: #f1f5f9;
+        }
+        
+        .card p {
+            font-size: 0.95rem;
+            margin: 0;
+        }
+        
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 8px 16px;
+            background-color: #38bdf8;
+            color: #0f172a;
+            border-radius: 6px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .card:hover .btn {
+            background-color: #7dd3fc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Select Portfolio Version</h1>
+        <p>Choose the interface that best suits your style.</p>
+        
+        <div class="card-container">
+            <a href="v1.html" class="card">
+                <div class="card-preview v1-preview">
+                    <!-- CSS Art or simple placeholder -->
+                </div>
+                <div class="card-content">
+                    <div>
+                        <h2>Professional</h2>
+                        <p>A clean, corporate design focusing on clarity and modern aesthetics.</p>
+                    </div>
+                    <span class="btn">View Version 1</span>
+                </div>
+            </a>
+            
+            <a href="v2.html" class="card">
+                <div class="card-preview v2-preview">
+                    <div class="minimal-art">
+                        <div class="circle"></div>
+                        <div class="line"></div>
+                        <div class="line short"></div>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <div>
+                        <h2>Minimalist</h2>
+                        <p>A storytelling-focused, light-themed design emphasizing impact.</p>
+                    </div>
+                    <span class="btn">View Version 2</span>
+                </div>
+            </a>
+
+            <a href="v3.html" class="card">
+                <div class="card-preview v3-preview">
+                    <div class="bento-mini">
+                        <div class="mini-box hero"></div>
+                        <div class="mini-box"></div>
+                        <div class="mini-box"></div>
+                        <div class="mini-box wide"></div>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <div>
+                        <h2>Bento (New)</h2>
+                        <p>High-impact, modular grid design for maximum visual engagement.</p>
+                    </div>
+                    <span class="btn">View Version 3</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

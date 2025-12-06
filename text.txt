@@ -1,0 +1,476 @@
+Dear ASDRP,
+The work I do for ASDRP is varied, specific, dynamic, and tailored to the organization&#39;s
+needs. I fulfill roles spanning Application Developer, Systems Engineer, Web Developer,
+Technical Support Specialist, and more. Professionals specializing in just one of these
+areas often command rates of $40 per hour or higher.
+Through all the projects mentioned below, I believe I&#39;ve demonstrated the significant value
+and impact my contributions can have, reducing time and effort required from other parties.
+Adapting to the administration&#39;s vision is also part of my role, so my responsibilities and
+expectations are never static.
+About a year and a half ago, I thanked you for bringing me on board and, in many ways,
+taking a risk. “While I might not be an expert on the next project you send my way, everyday
+I am closer to being an expert in ASDRP.” Today, I might still not be expert on the next
+project sent my way, but I am definitely an expert
+As for compensation, considering the diverse range of responsibilities I take on, I believe a
+rate in the range of $35-$40 per hour would be fair. Of course, I&#39;m open to further
+discussion, as I value our partnership and want to ensure a fair arrangement that reflects
+my contributions while aligning with ASDRP&#39;s needs and constraints.
+Thank you,
+Diego Martinez
+
+DIEGO’S CONTRIBUTIONS
+
+Under promise and over deliver. Some specifics but mostly general.
+List of projects in writing, approximation of time weekly. Notes in documents.
+Scribbles, overwrites, clean-up and get back to you. We can talk about it now.
+Get requests in email writing, “so I do not forget”. Write out a response and then negotiate. Final
+proposal.
+MRD, ERD, EDD
+Engineering Designing Document
+Engineering Requirements Document
+
+Enhancement Request
+If they won’t do it, I can write some and have them read and approved.
+Preliminary meeting, Edward and David. Department Heads (?). 20 minutes. Verbal
+communications are not sufficient. Requirements document. Start early, set the stage before it
+gets too difficult.
+Demonstrate that you are putting in more than ~40 hrs (?)
+
+Characteristics
+Takes the Initiative.
+Constant refinement.
+Low downtime.
+Immediate error response AND resolution.
+Custom-made system engineering.
+Flexibility and adaptability.
+Impeccable customer service
+No kid left behind
+Will always listen to input, ideas, feedback and projects
+Will accept project if:
+1. Have time and space
+2. Net positive for all parties affected
+Results: higher retention and knowing we have higher retention
+Difference marker for people remote or in-person. RES101 and 201 eligible
+
+Everyone will always have ideas, who has brought them to life?
+Facilitate communications (e.g. I leave no email unattended, monitor Helpdesk,
+asdrp.org/canvas and other websites)
+No hand-holding or chasing
+Constantly keeping track of expectations, functionalities
+Communicating challenges and key-impactful decisions while providing solutions marked with
+pros and cons.
+Multiple
+
+Tools Managed and Currently Used
+Python, Javascript, Google Apps Scripts, Google Sheets, Form design. Automation and Data
+Analysis. HTML, CSS. Website design and maintenance. System design, development, and
+administrations.
+Systems enabling the fast pace of the organization.
+E.g. Google groups automatically allows Google events to be automatically added to people&#39;s
+calendars. Round 1 applicants and transitioned students can see them as soon as they commit
+to the organization.
+
+CRM
+Individual, detailed tracking. One-to-one parent association
+Constantly monitors email deliveries, subscriptions and status to make sure everyone receives
+our communications.
+Registration Forms
+Reusable and customizable
+QR Code Scanner
+Whitelist user, real-time validation feedback
+Main asdrp.org page
+Full remake resulting in increase traffic
+
+Positively impacts current students, parents, faculty, prospective students and the public at
+large.
+
+Rosters
+Updates each term
+Advisors can now see who submitted the transition form
+Updates automatically when updated in our records. Facilitating communications
+Canvas
+Pre-Work
+Individual tracking
+Calculating grades
+Hubspot Updates
+Report Generator with premade
+Admissions process
+Admissions process upgrades.
+- Individual tracking
+- Personalized messages
+- Application includes Remote/In-person intent
+- Application reviewers save time by only reviewing the latest submission
+- Application marks recurring applicants (Admission Status)
+- Automated applicant contact creation
+- Automated parent contact creation and association with student
+Continuous efforts
+Colloquia
+Messaging Advisors and Students to request presenters, seek clarification, update on changes
+and request presenter info.
+Updating Website, drafting announcement email. Creating a new email each time.
+MSCI
+Bidirectional sync between advisor sheets and main spreadsheet. Achieved in short-timeline.
+
+Helpdesk
+Continuous maintenance of tickets, answering everything I can and pushing for the rest.
+Archiving older requests.
+Transition System
+Unsolicited improvement: advisors can see what has been submitted which reduces confusion
+on their side, need to reach out, and they become an ally in pushing students to submit.
+Rosters
+Took notice of the manual labor needed to share records with advisors.
+Later, I was able to integrate the same working system with the CRM.
+Certificate Generator
+Fully flexible certification. You can decide what for, what design, and send it out in mass.
+Financial Aid updates and reminders to admin. No child left behind
+
+Registrations and check Ins for:
+Orientation
+Lab Safety Trainings
+Core Trainings (reg emails for qualifying/previous tiers)
+Registration emails
+Registration form calculator
+Update in CRM
+Blitz Talks
+Abstract and Attendee Registration
+Hubspot Syncing
+Checking
+Expo
+Abstract Registration
+Hubspot Syncing
+
+Checking
+
+Bidirectional CRM and Database sync
+Enables ultimate freedom and security for our data.
+
+Data Analysis
+2019-2024 application data
+
+The Silent
+Time spent figuring out HOW to create processes.
+Time spent FIXING and maintaining processes. (e.g. students using the wrong emails, rare
+bugs and upgrades, unusual behavior)
+
+Coordinating and surveying impacted parties for feedback and improvement points.
+Managing expectations
+Looking for upgrades and system inefficiencies.
+Answering system-related questions
+All the projects that did not make it to light or were dephased.
+
+All the versions of projects that took place for the finalized project.
+E.g.
+The Certificate Generator went through three different (fully functional) versions in different
+platforms but each was discarded because they could not be flexible enough for the needs of
+the organization.
+The Lab Request System went through countless prototypes
+Existing and live fully-functional systems get updated all the time when improvements are
+needed or possible. (Registration forms, Scanning App, CRM updates, basically all systems)
+
+Almost every project assigned, was assigned on a limited timeline for a one person army.
+
+Long Term-Plans
+(Current) Phase 1: Have clearly defined, low-maintenance systems that can handle any amount
+of traffic, both internal and external.
+Phase 2: Popularization and Advertisement
+
+Data backtracking consolidation
+Detailed documentation
+Internal database, ultimate flexibility allowing for safer sensitive data processing.
+
+STUDENT PORTAL
+Everything a student should know or can do in one place
+
+OFFICIAL LETTER STARTS HERE
+
+Dear ASDRP,
+The work I do for ASDRP is varied, specific, dynamic, and tailored to the organization’s needs. I
+fulfill roles spanning Application Developer, Systems Engineer, Web Developer, Technical
+Support Specialist, and many more. And I love every role and the work we achieve with our
+teams. However, professionals specializing in just one of these areas often command
+significantly higher rates in any industry, yet I am proud to compromise and contribute across all
+of them in support of ASDRP’s mission.
+Through all the projects I will mention below, which I tried to summarize as much as I could. I
+am certain I am forgetting some projects, contributions and specific actions but I wanted to draft
+this quick and short so it wouldn’t take much of my time and especially yours; we all know there
+is more work and projects to work on!
+I believe I’ve demonstrated the significant value and impact my contributions can
+have—reducing time and effort required from other parties and ensuring systems run smoothly
+and efficiently while adapting to the administration’s vision.
+About a year and a half ago, I thanked you for bringing me on board and, in many ways, taking
+a risk. I said, “While I might not be an expert on the next project you send my way, every day I
+am closer to being an expert in ASDRP.” Today, while I might still not be an expert on the next
+project sent my way, I am definitely an expert on ASDRP—its systems, needs, and people.
+
+DIEGO’S CONTRIBUTIONS
+Work Ethic and Approach
+
+● Takes initiative and ownership of projects
+● Constant refinement and low downtime
+● Quick error response and resolution
+● Designs and maintains custom-made systems tailored to ASDRP’s operations
+● Demonstrates flexibility and adaptability in every assignment
+● Provides impeccable customer service
+● “No kid left behind”
+
+● Actively listens to input, ideas, feedback, and requests
+● Accepts projects when there is time, space, and a net positive outcome for all affected.
+Considering administration, advisors, students, parents and the public at large
+● Facilitates communication across teams and systems (monitors Helpdesk, asdrp.org,
+Canvas, and other channels)
+● Responds promptly to every inquiry and task— no hand-holding or chasing
+● Keeps track of expectations, functionalities, and evolving goals
+● Communicates challenges and key-impactful decisions, always with solutions presented
+alongside pros and cons
+
+Some results: higher retention, better efficiency, and a more connected and capable
+organization.
+These systems enable the fast pace of ASDRP. For example:
+● Google Groups integration: automatically adds calendar events for Round 1 applicants
+and transitioned students, visible as soon as they commit to ASDRP.
+
+Tools Managed and Currently Used
+Python • JavaScript • Google Apps Script • Google Sheets • Form Design • HTML • CSS
+Automation • Data Analysis • Website Design and Maintenance • System Design,
+Development, and Administration
+
+Major Systems and Projects
+Area Projects and Highlights Impact and Outcome
+
+CRM
+Development
+
+Built and maintained detailed, individual
+tracking and one-to-one parent
+
+Improved accuracy,
+reliability, and inclusivity of
+
+associations. Constantly monitored email
+deliveries, subscriptions, and statuses to
+ensure full communication reach.
+
+organizational
+communication.
+
+Registration
+Forms
+
+Designed reusable, customizable systems
+adaptable for multiple programs. Integrated
+calculators and CRM updates.
+
+Simplified form
+management and reduced
+repetitive setup time.
+
+QR Code
+Scanner
+
+Created whitelist user validation with real-
+time feedback.
+
+Enabled secure, quick, and
+reliable check-ins.
+
+Main Website
+(asdrp.org)
+
+Complete remake of the organization’s
+public website.
+
+Increased traffic, improved
+visibility, and elevated
+ASDRP’s public image.
+
+Rosters &amp;
+Advisor Tools
+
+Automated roster updates each term;
+advisors can see who submitted transition
+forms and view updates reflected in real
+time. Integrated with CRM.
+
+Reduced manual labor,
+increased advisor efficiency,
+improved student follow-up.
+
+Canvas
+Systems
+
+Developed individual tracking and grade
+calculation tools for Pre-Work and related
+coursework.
+
+Streamlined evaluation and
+data tracking for both staff
+and students.
+
+HubSpot
+Integrations
+
+Designed report generators, automated
+updates, and improved data flow between
+systems.
+
+Enhanced reporting
+capabilities and reduced
+repetitive administrative
+work.
+
+Admissions
+Process
+
+Upgraded applications to include remote/in-
+person intent, recurring applicant detection,
+and automatic contact creation for students
+and parents. Personalized communications
+and tracking.
+
+Ensured applicants received
+accurate, timely
+correspondence. Enabled
+students to be deferred and
+kept track of
+
+Colloquia
+Management
+
+Coordinated messaging between advisors
+and students to confirm presenters, clarify
+updates, and collect details. Updated
+website, drafted announcements, and
+managed emails.
+
+Improved event logistics,
+clarity, and participation.
+
+MSCI Sync Built bidirectional synchronization between
+
+advisor spreadsheets and main
+records—achieved within a short timeline.
+
+Ensured real-time data
+integrity and coordination.
+
+Helpdesk
+Operations
+
+Maintained and organized ticket system;
+answered all possible inquiries and pushed
+unresolved requests to completion.
+Archived older tickets.
+
+Ensured no request went
+unanswered; improved
+communication and
+reliability.
+
+Transition
+System
+
+Independently improved system allowing
+advisors to view submissions instantly.
+
+Reduced confusion and
+follow-up needs,
+empowered advisors to help
+ensure student compliance.
+
+Certificate
+Generator
+
+Designed a flexible certification generator
+allowing custom designs and mass
+distribution.
+
+Allowed fast, consistent
+recognition of achievements
+with full administrative
+control.
+
+Financial Aid
+Tracking
+
+Developed automatic reminders and
+reporting to ensure “No child left behind.”
+
+Supported equitable
+distribution and
+accountability.
+
+Event
+Registrations
+and Check-Ins
+
+Built and maintained systems for:
+Orientation, Lab Safety, Core Trainings,
+Blitz Talks, Expo. Included registration
+emails, CRM updates, HubSpot syncing,
+abstract tracking, and attendance
+validation.
+
+Created seamless event
+management, real-time
+tracking, and CRM
+integration across all
+programs.
+
+Bidirectional
+CRM–Database
+Sync
+
+Achieved real-time data synchronization
+with security and flexibility.
+
+Guaranteed accurate data
+flow across systems and
+reduced redundancy.
+
+Data Analysis Analyzed 2019–2024 application data to
+identify trends and guide improvements.
+
+Enabled data-driven
+decision-making and
+measurable improvements
+in outreach and admissions.
+
+The Silent Work
+Beyond visible achievements, significant time is dedicated to:
+● Figuring out how to create processes from scratch
+● Fixing and maintaining systems (handling student errors, rare bugs, unusual behaviors)
+● Coordinating with impacted parties for feedback and improvement
+● Managing expectations and system efficiencies
+● Answering system-related questions daily
+● Iterating through multiple prototypes before the final version
+● Refining projects for efficiency/clarity/improvements
+
+Examples:
+● The Certificate Generator went through three fully functional versions on different
+platforms before reaching the necessary flexibility.
+● The Lab Request System underwent countless prototypes before meeting ASDRP’s
+needs.
+● Nearly all live systems—Registration Forms, Scanning App, CRM update scripts, MSCI,
+and the CRM itself and others—are continuously updated and improved.
+
+Almost every project has been completed within short timelines, often as a one-person team
+handling design, development, testing, and deployment.
+
+Upcoming Proposed Plans
+Paid Canvas Integration
+Sign-In App Automations
+Deal/ Payments and Invoices. Automation
+SCCUR Tracking
+
+Closing and Compensation Request
+The scope, complexity, and impact of my work span multiple disciplines and directly support
+ASDRP’s growth, stability, and efficiency. I am proud of the systems, processes, and results
+achieved so far—and I continue to push for improvements that save time, strengthen
+communication, and reduce burdens across the organization.
+In recognition of these contributions, I respectfully request a 20% increase in compensation to
+bring my pay in closer alignment with the value and responsibilities of my role. I remain
+committed to ASDRP’s mission and look forward to continuing to innovate and strengthen the
+systems that make its work possible.
+Thank you for your time and consideration.
+Sincerely,
+Diego Martinez
